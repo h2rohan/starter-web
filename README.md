@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ##Copyright
 2017 Git training
+
+## How to continue
+please fork this repository and then issue pull request for review.
